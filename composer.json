@@ -1,1 +1,8 @@
 
+{
+    "name": "testVendor/test2",
+    "description": "A short description of what your package does",
+    "require": {
+      "testVendor/test": "1.0"
+    }
+}
