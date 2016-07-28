@@ -1,2 +1,2 @@
 <?php
-echo 'This is test2';
+echo 'This is test2 v2.0';
